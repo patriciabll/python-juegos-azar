@@ -1,4 +1,4 @@
-## Programando con Python - Bootcamp Data Analytics - Adalab - Modulo 1
+## Programando con Python
 
 Este repositorio contiene 3 juegos de azar programados con Python
 Es un proyecto realizado por 4 estudiantes del Bootcamp Data Analytics de Adalab
